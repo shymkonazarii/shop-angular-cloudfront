@@ -60,4 +60,4 @@ To fix it you either need to follow conventional commit messages rules, or remov
 
 ### CloudFront (Automated)
 
-[link](https://d18xupll5c0kya.cloudfront.net)
+[link](https://d2784x79f7qf5g.cloudfront.net/)
